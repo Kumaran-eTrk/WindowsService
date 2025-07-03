@@ -13,8 +13,7 @@ You can download it from the official `Mircosoft Visual Studio Code website <htt
 Install both the .NET SDK and the .NET Runtime (version 8.0) appropriate for your operating system.
 The .NET Runtime is necessary to run .NET applications and libraries.
 You can download the .NET Runtime from the official Microsoft .NET website.
-
-       Windows Users: `Download the Windows Installer for .NET Runtime <https://dotnet.microsoft.com/en-us/download>`
+ Download the Windows Installer for .NET Runtime <https://dotnet.microsoft.com/en-us/download>
 
 # Clone the Repository
 
