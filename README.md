@@ -6,7 +6,7 @@
 
 Ensure you have the latest version of Mircosoft Visual Studio Code (2022 edition) installed.
 This IDE provides a robust environment for developing, debugging, and building .NET applications.
-You can download it from the official `Mircosoft Visual Studio Code website <https://visualstudio.microsoft.com/downloads/>`
+You can download it from the official Mircosoft Visual Studio Code website <https://visualstudio.microsoft.com/downloads/>
 
 **2. .NET Runtime (version 8.0)**
 
